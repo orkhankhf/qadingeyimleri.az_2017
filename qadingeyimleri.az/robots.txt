@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /bakuweb/
+Disallow: /bootstrap/
+Disallow: /cgi-bin/
+Disallow: /db/
+Disallow: /includes/
+Disallow: /themes/
+Disallow: /mail.php/
