@@ -1,1 +1,1 @@
-# qadingeyimleri.az_2017
+# Qadingeyimleri.az was published on March 2017
